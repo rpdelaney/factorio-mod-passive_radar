@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+pkg="passive_radar"
+
+version="$(jq -r .version < ./"$pkg"/info.json)"
+
+(set -x ; zip -r "$pkg"_"$version".zip ./"$pkg")

@@ -1,0 +1,11 @@
+{
+  "name": "passive-radar",
+  "version": "0.0.1",
+  "title": "Passive Radar",
+  "author": "AnEntireSleeve",
+  "description": "Adds a radar that does not scan, but reveals a larger area than the normal radar.",
+  "dependencies": [
+        "base >= 1.1.53"
+  ],
+  "factorio_version": "1.1"
+}
