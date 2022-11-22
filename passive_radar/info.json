@@ -1,6 +1,6 @@
 {
   "name": "passive-radar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Passive Radar",
   "author": "AnEntireSleeve",
   "description": "Adds a radar that does not scan, but reveals a larger area than the normal radar.",
